@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="启动没问题">
+      <change afterPath="$PROJECT_DIR$/login/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +18,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="H:/MavenKu/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="H:\MavenKu\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nF8alypabdcnohikDjV8ECHkJB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/login/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\open\qia-fan\qiafanhou\login\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="启动没问题">
       <created>1610966845750</created>
@@ -24,8 +63,34 @@
       <option name="project" value="LOCAL" />
       <updated>1610966845750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="启动没问题">
+      <created>1610966896083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610966896083</updated>
+    </task>
+    <task id="LOCAL-00003" summary="启动没问题">
+      <created>1610966929863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610966929863</updated>
+    </task>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="启动没问题" />
+      <created>1610974554303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610974554303</updated>
+      <workItem from="1610974556622" duration="979000" />
+      <workItem from="1610975909449" duration="115000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
