@@ -1,4 +1,4 @@
-package com.example.qiafan;
+package qiafan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
