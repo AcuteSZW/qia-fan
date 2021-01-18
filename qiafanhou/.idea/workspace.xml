@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="推送一波">
-      <change beforePath="$PROJECT_DIR$/login/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="redis等">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/login/src/main/resources" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -43,6 +43,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="login" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.login.LoginApplication" />
@@ -81,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610974554303</updated>
       <workItem from="1610974556622" duration="979000" />
-      <workItem from="1610975909449" duration="306000" />
+      <workItem from="1610975909449" duration="937000" />
+      <workItem from="1610976880262" duration="389000" />
     </task>
     <task id="LOCAL-00004" summary="推送一波">
       <created>1610976167777</created>
@@ -90,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610976167777</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="redis等">
+      <created>1610976239867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610976239867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="redis等">
+      <created>1610976790169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610976790169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动没问题" />
     <MESSAGE value="推送一波" />
-    <option name="LAST_COMMIT_MESSAGE" value="推送一波" />
+    <MESSAGE value="redis等" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis等" />
   </component>
 </project>
