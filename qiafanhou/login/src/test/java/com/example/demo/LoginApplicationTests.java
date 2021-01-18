@@ -1,10 +1,10 @@
-package com.example.qiafan;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QiafanApplicationTests {
+class LoginApplicationTests {
 
     @Test
     void contextLoads() {
