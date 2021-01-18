@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="启动没问题">
-      <change afterPath="$PROJECT_DIR$/login/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f8516f75-761b-489f-a279-aa6ed6a7a705" name="默认的" comment="推送一波">
       <change beforePath="$PROJECT_DIR$/login/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +18,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="H:/MavenKu/apache-maven-3.6.3" />
+        <option name="mavenHome" value="H:\MavenKu\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="H:\MavenKu\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -84,9 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1610974554303</updated>
       <workItem from="1610974556622" duration="979000" />
-      <workItem from="1610975909449" duration="115000" />
+      <workItem from="1610975909449" duration="306000" />
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="推送一波">
+      <created>1610976167777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610976167777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动没问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="启动没问题" />
+    <MESSAGE value="推送一波" />
+    <option name="LAST_COMMIT_MESSAGE" value="推送一波" />
   </component>
 </project>
